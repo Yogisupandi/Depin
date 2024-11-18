@@ -16,5 +16,6 @@
   "howManyTimesToUpgrade_DataAnalysis_Skill": 5,
   "howManyTimesToUpgrade_StrategicPlanning_Skill": 5,
   "howManyPointsYouWantToContributeToLeague": 100000,
+  "isContributeAutomatic": false,
   "itemThatYouWantToContributeToLeague": ["RAM_4GB", 1]
 }
