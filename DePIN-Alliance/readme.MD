@@ -35,10 +35,11 @@ To get started with the bot, follow these steps:
   "timeZone": "en-US",
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
+  "skipInvalidProxy": false,
   "howManyAccountsRunInOneTime": 100,
-  "isDoTasks": false,
+  "isDoTasks": true,
   "isPlayGames": true,
-  "isBuyCards": false,
+  "isBuyCards": true,
   "maxPriceOfItems": 50000000,
   "howManyPiecesOfEachItem": 1,
   "howManyBoxsDoYouWantToBuy": 5,
@@ -49,9 +50,10 @@ To get started with the bot, follow these steps:
   "howManyTimesToUpgrade_DataAnalysis_Skill": 5,
   "howManyTimesToUpgrade_StrategicPlanning_Skill": 5,
   "howManyPointsYouWantToContributeToLeague": 100000,
-  "isContributeAutomatic": false,
+  "isContributeAutomatic": true,
   "itemThatYouWantToContributeToLeague": ["RAM_4GB", 1] - Fill the item's code and number of item, find number code in items.json file.
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/6879)
